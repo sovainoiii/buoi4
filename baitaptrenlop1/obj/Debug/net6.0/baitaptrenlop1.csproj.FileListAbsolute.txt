@@ -1,0 +1,15 @@
+E:\CSharp\buoi4\baitaptrenlop1\bin\Debug\net6.0\baitaptrenlop1.exe
+E:\CSharp\buoi4\baitaptrenlop1\bin\Debug\net6.0\baitaptrenlop1.deps.json
+E:\CSharp\buoi4\baitaptrenlop1\bin\Debug\net6.0\baitaptrenlop1.runtimeconfig.json
+E:\CSharp\buoi4\baitaptrenlop1\bin\Debug\net6.0\baitaptrenlop1.dll
+E:\CSharp\buoi4\baitaptrenlop1\bin\Debug\net6.0\baitaptrenlop1.pdb
+E:\CSharp\buoi4\baitaptrenlop1\obj\Debug\net6.0\baitaptrenlop1.csproj.AssemblyReference.cache
+E:\CSharp\buoi4\baitaptrenlop1\obj\Debug\net6.0\baitaptrenlop1.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\buoi4\baitaptrenlop1\obj\Debug\net6.0\baitaptrenlop1.AssemblyInfoInputs.cache
+E:\CSharp\buoi4\baitaptrenlop1\obj\Debug\net6.0\baitaptrenlop1.AssemblyInfo.cs
+E:\CSharp\buoi4\baitaptrenlop1\obj\Debug\net6.0\baitaptrenlop1.csproj.CoreCompileInputs.cache
+E:\CSharp\buoi4\baitaptrenlop1\obj\Debug\net6.0\baitaptrenlop1.dll
+E:\CSharp\buoi4\baitaptrenlop1\obj\Debug\net6.0\refint\baitaptrenlop1.dll
+E:\CSharp\buoi4\baitaptrenlop1\obj\Debug\net6.0\baitaptrenlop1.pdb
+E:\CSharp\buoi4\baitaptrenlop1\obj\Debug\net6.0\baitaptrenlop1.genruntimeconfig.cache
+E:\CSharp\buoi4\baitaptrenlop1\obj\Debug\net6.0\ref\baitaptrenlop1.dll
